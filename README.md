@@ -2,5 +2,5 @@
 Flappy Bird Game made With SFML and C++
 
 Controls:
-R - Reset
-W, Space, Mouse Click To Jump
+<p>R - Reset</p>
+<p>W, Space, Mouse Click To Jump</p>
